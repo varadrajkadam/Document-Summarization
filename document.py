@@ -10,7 +10,7 @@ import PyPDF2
 
 
 
-openai.api_key = "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"
+openai.api_key = ""
 openai.api_base = "https://api.openai.com/v1/completions"
 
 app = Flask(_name_)
